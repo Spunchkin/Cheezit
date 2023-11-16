@@ -1,4 +1,4 @@
-                                    <a href="https://imgbb.com/"><img src="https://i.ibb.co/Rb7DJGZ/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Rb7DJGZ/image.png" alt="image" border="0"></a>
 
 
 # Cheezit
