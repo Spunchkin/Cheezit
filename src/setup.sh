@@ -7,7 +7,7 @@ script_dir="$(dirname "$(readlink -f "$0")")"
 if [[ "$OSTYPE" == "darwin"* || "$OSTYPE" == "linux-gnu" ]]; then
     # macOS or Linux
     shebang="#!/usr/bin/env python3"
-    wrapper="#!/bin/bash\n$script_dir/cheezit.py \"\$@\""
+    wrapper="#!/bin/bash\nPYTHONPATH=\"$script_dir\" $script_dir/cheezit.py \"\$@\""
 elif [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
     # Windows (MSYS or Cygwin)
     shebang=""
