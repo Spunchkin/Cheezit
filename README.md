@@ -40,6 +40,11 @@ Dont use on your home directory, things could get messy.
 - Sort by first letter
 - Sort by file extension
 
+## Listen Up
+Sorry i havent updated in a while, had final exams, then got sick asf,
+will hopefully get finished by 16/12/2023, i plan to add customized sorting, and a permanent type of settings
+system.
+
 
 
 
