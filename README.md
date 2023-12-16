@@ -42,7 +42,7 @@ Dont use on your home directory, things could get messy.
 
 ## Listen Up
 Sorry i havent updated in a while, had final exams, then got sick asf,
-will hopefully get finished by 16/12/2023, i plan to add customized sorting, and a permanent type of settings
+will hopefully get finished by a couple days (stated on 16/12/2023) because i plan to work on some other projects as well, i plan to add customized sorting, and a permanent type of settings
 system.
 
 
